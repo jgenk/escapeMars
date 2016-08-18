@@ -10,4 +10,4 @@ Now this is just annoying
 
 Lets test push
 
-This is probably a bad idea
+Stupid GIT
